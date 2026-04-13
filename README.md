@@ -1,3 +1,5 @@
+🚀 Full Stack Developer | Astro • Tailwind • PHP • Java
+
 # Ignacio Ortiz 👋
 
 Full Stack Developer focused on building modern web applications and clean user interfaces.
