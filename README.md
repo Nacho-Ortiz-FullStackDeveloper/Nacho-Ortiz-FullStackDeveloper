@@ -1,32 +1,64 @@
-🚀 Full Stack Developer | Astro • Tailwind • PHP • Java
+<h1 align="center">Hi 👋, I'm Ignacio Ortiz</h1>
+<h3 align="center">Full Stack Developer | Astro, Tailwind, PHP & Java</h3>
 
-# Ignacio Ortiz 👋
+<p align="center">
+  Building modern web experiences with clean UI, strong performance and scalable architecture.
+</p>
 
-Full Stack Developer focused on building modern web applications and clean user interfaces.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nacho-Ortiz-FullStackDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## 🚀 About me
-- Frontend & Full Stack Developer
-- Specialized in Astro, Tailwind CSS and modern UI development
-- Experience with PHP, CodeIgniter, Java and Node.js
-- Passionate about clean design, performance and real-world projects
+---
 
-## 🛠 Tech Stack
-- Frontend: Astro, Tailwind CSS, JavaScript
-- Backend: PHP (CodeIgniter), Node.js, Java
-- Other: Git, XAMPP, Unity (2D games)
+### 🚀 About Me
 
-## 📂 Featured Projects
+* 💻 Frontend & Full Stack Developer
+* ⚡ Specialized in Astro, Tailwind CSS and modern UI development
+* 🛠 Experience with PHP (CodeIgniter), Java and Node.js
+* 🎯 Focused on clean design, performance and real-world projects
 
-### 🛍 Drops Brand (Astro + Tailwind)
+---
+
+### ⚡ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,tailwind,js,php,java,nodejs,git" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+#### 🔹 Drops Brand (Astro + Tailwind)
+
 Modern streetwear e-commerce landing page focused on UI, performance and responsive design.
-
 👉 https://github.com/Nacho-Ortiz-FullStackDeveloper/drops-brand-astro
 
-### 🦷 Glory Grillz (PHP + CodeIgniter)
+#### 🔹 Glory Grillz (PHP + CodeIgniter)
+
 Full stack application with authentication, user roles and product management system.
 
-## 🎯 Currently
-Building portfolio projects and looking for new opportunities as a developer.
+---
 
-## 📫 Contact
-- LinkedIn: (ponlo luego)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nacho-Ortiz-FullStackDeveloper&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nacho-Ortiz-FullStackDeveloper&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Currently
+
+Building modern web applications and scalable frontends.
+
+---
+
+### 📫 Contact
+
+* LinkedIn: (add soon)
