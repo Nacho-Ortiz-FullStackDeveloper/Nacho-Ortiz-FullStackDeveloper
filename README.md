@@ -43,9 +43,7 @@ Full stack application with authentication, user roles and product management sy
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nacho-Ortiz-FullStackDeveloper&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nacho-Ortiz-FullStackDeveloper&theme=tokyonight" />
