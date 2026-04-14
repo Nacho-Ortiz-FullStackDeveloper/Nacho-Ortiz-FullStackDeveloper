@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Astro, Tailwind, PHP & Java</h3>
 
 <p align="center">
-  Building modern web experiences with clean UI, strong performance and scalable architecture.
+ Building scalable full stack applications with modern UI and real backend logic.
 </p>
 
 <p align="center">
