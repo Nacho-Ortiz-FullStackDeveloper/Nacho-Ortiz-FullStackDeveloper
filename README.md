@@ -58,4 +58,4 @@ Building modern web applications and scalable frontends.
 
 ### 📫 Contact
 
-* LinkedIn: (add soon)
+* LinkedIn: https://www.linkedin.com/in/ignacio-ortiz-real/
