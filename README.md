@@ -28,15 +28,14 @@
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-#### 🔹 Drops Brand (Astro + Tailwind)
+- 🔥 **Drops Brand (Astro + Tailwind)**  
+  https://github.com/Nacho-Ortiz-FullStackDeveloper/drops-brand-astro  
 
-Modern streetwear e-commerce landing page focused on UI, performance and responsive design.
-👉 https://github.com/Nacho-Ortiz-FullStackDeveloper/drops-brand-astro
-
-#### 🔹 Glory Grillz (PHP + CodeIgniter)
-
+- 💼 **Glory Grillz (PHP + CodeIgniter)**  
+  https://github.com/Nacho-Ortiz-FullStackDeveloper/glory-grillz
+  
 Full stack application with authentication, user roles and product management system.
 
 ---
