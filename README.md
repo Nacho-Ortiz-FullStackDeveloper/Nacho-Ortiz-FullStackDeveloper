@@ -22,8 +22,19 @@
 
 ### ⚡ Tech Stack
 
+#### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=astro,tailwind,js,php,java,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=astro,react,angular,js,tailwind" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java" />
+</p>
+
+#### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
