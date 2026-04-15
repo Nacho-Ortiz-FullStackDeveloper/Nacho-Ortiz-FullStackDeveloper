@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋 , I'm Ignacio Ortiz</h1>
-<h3 align="center">Full Stack Developer | Astro, Tailwind, PHP & Java</h3>
+<h1 align="center">Hi 👋, I'm Ignacio Ortiz</h1>
+
+<h3 align="center">
+Full Stack Developer | Astro, React, Angular, Node.js
+</h3>
 
 <p align="center">
- Building scalable full stack applications with modern UI and real backend logic.
+Building scalable full stack applications with modern frontend architectures and real backend logic.
 </p>
 
 <p align="center">
@@ -13,10 +16,10 @@
 
 ### 🚀 About Me
 
-* 💻 Frontend & Full Stack Developer
-* ⚡ Specialized in Astro, Tailwind CSS and modern UI development
-* 🛠 Experience with PHP (CodeIgniter), Java and Node.js
-* 🎯 Focused on clean design, performance and real-world projects
+- 💻 Frontend & Full Stack Developer  
+- ⚡ Specialized in Astro, Tailwind CSS and modern UI development  
+- 🛠 Experience building full stack applications with PHP (CodeIgniter), Java and Node.js  
+- 🎯 Focused on clean design, performance and real-world projects  
 
 ---
 
@@ -45,15 +48,13 @@
   https://github.com/Nacho-Ortiz-FullStackDeveloper/drops-brand-astro  
 
 - 💼 **Glory Grillz (PHP + CodeIgniter)**  
-  https://github.com/Nacho-Ortiz-FullStackDeveloper/glory-grillz
-  
-Full stack application with authentication, user roles and product management system.
+  https://github.com/Nacho-Ortiz-FullStackDeveloper/glory-grillz  
+
+> Full stack application with authentication, role-based access and product management system.
 
 ---
 
 ### 📊 GitHub Stats
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nacho-Ortiz-FullStackDeveloper&theme=tokyonight" />
@@ -63,10 +64,10 @@ Full stack application with authentication, user roles and product management sy
 
 ### 🚀 Currently
 
-Building modern web applications and scalable frontends.
+Building scalable full stack applications with modern frontend architectures.
 
 ---
 
 ### 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/ignacio-ortiz-real/
+- LinkedIn: https://www.linkedin.com/in/ignacio-ortiz-real/
